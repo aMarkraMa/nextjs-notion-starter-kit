@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   github: 'aMarkraMa',
-  //linkedin: 'fisch2',
+  linkedin: 'shengqi-ma',
   //twitter: 'transitive_bs',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
